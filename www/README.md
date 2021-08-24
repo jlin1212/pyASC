@@ -126,7 +126,7 @@ The site assumes a specific directory tree structure in each data directory. Nam
 
 Here is part of an example directory tree from `masn01-archive/`:
 
-    directory/
+    masn01-archive/
     ├─ 2016/
     │  ├─ 2016-01/
     │  │  ├─ 2016-01-01/
